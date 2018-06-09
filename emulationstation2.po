@@ -620,12 +620,6 @@ msgstr "DIRETÓRIO RECURSIVO DE IMAGENS"
 msgid "CUSTOM IMAGE FILTER"
 msgstr "FILTRO DE IMAGENS PERSONALIZADAS"
 
-msgid "grid"
-msgstr "grade"
-
-msgid "ENABLE FILTERS"
-msgstr "HABILITAR FILTROS"
-
 msgid "MAIN MENU"
 msgstr "MENU PRINCIPAL"
 
@@ -747,6 +741,9 @@ msgstr "detalhado"
 msgid "video"
 msgstr "vídeo"
 
+msgid "grid"
+msgstr "grade"
+
 msgid "START ON SYSTEM"
 msgstr "IINICIAR NO SISTEMA"
 
@@ -755,6 +752,9 @@ msgstr "NENHUM"
 
 msgid "ON-SCREEN HELP"
 msgstr "AJUDA NA TELA"
+
+msgid "ENABLE FILTERS"
+msgstr "HABILITAR FILTROS"
 
 msgid "Mb"
 msgstr "Mb"
