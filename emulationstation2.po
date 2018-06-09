@@ -620,6 +620,12 @@ msgstr "DIRETÓRIO RECURSIVO DE IMAGENS"
 msgid "CUSTOM IMAGE FILTER"
 msgstr "FILTRO DE IMAGENS PERSONALIZADAS"
 
+msgid "grid"
+msgstr "grid"
+
+msgid "ENABLE FILTERS"
+msgstr "HABILITAR FILTROS"
+
 msgid "MAIN MENU"
 msgstr "MENU PRINCIPAL"
 
