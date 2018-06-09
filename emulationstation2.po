@@ -621,7 +621,7 @@ msgid "CUSTOM IMAGE FILTER"
 msgstr "FILTRO DE IMAGENS PERSONALIZADAS"
 
 msgid "grid"
-msgstr "grid"
+msgstr "grade"
 
 msgid "ENABLE FILTERS"
 msgstr "HABILITAR FILTROS"
