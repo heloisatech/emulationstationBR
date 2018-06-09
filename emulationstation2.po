@@ -724,7 +724,7 @@ msgid "instant"
 msgstr "instant"
 
 msgid "THEME SET"
-msgstr "CONJUNTO DE TEMA"
+msgstr "TEMAS"
 
 msgid "GAMELIST VIEW STYLE"
 msgstr "VISUALIZAR ESTILO LISTA"
