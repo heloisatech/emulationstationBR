@@ -13,12 +13,6 @@ msgstr ""
 "Language-Team: \n"
 "X-Generator: Poedit 2.0.6\n"
 
-msgid "SORTNAME"
-msgstr "NOME SORTIDO"
-
-msgid "ENTER GAME SORT NAME"
-msgstr "DIGITAR NOME SORTIDO"
-
 msgid "collections"
 msgstr "coleções"
 
@@ -298,6 +292,12 @@ msgstr "NOME"
 
 msgid "ENTER GAME NAME"
 msgstr "DIGITAR NOME DO JOGO"
+
+msgid "SORTNAME"
+msgstr "NOME SORTIDO"
+
+msgid "ENTER GAME SORT NAME"
+msgstr "DIGITAR NOME SORTIDO"
 
 msgid "DESCRIPTION"
 msgstr "DESCRIÇÃO"
