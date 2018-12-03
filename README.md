@@ -1,8 +1,12 @@
 # emulationstationBR
 
-Tradução para Português (Brasil) dos menus do EmulationStation RetroPie
+Tradução para Português (Brasil) do menu EmulationStation RetroPie
 
-EmulationStation RetroPie menus Portuguese (Brazil) translation
+EmulationStation RetroPie menu Portuguese (Brazil) translation
+
+.
+.
+Instruções em breve
 
 
 
