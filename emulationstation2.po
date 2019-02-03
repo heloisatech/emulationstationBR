@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: retropie-emulationstation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-09 11:21+0200\n"
+"POT-Creation-Date: 2019-02-03 10:27+0100\n"
 "Last-Translator: heloisa \n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -184,8 +184,8 @@ msgid ""
 "\n"
 "VISIT EMULATIONSTATION.ORG FOR MORE INFORMATION."
 msgstr ""
-"SEU ARQUIVO DE CONFIGURAÇÃO NÃO FOI CONFIGURADO OU É INVÁLIDO. "
-"VOCÊ PRECISA FAZER ISSO DE NOVO, INFELIZMENTE.\n"
+"SEU ARQUIVO DE CONFIGURAÇÃO NÃO FOI CONFIGURADO OU É INVÁLIDO. VOCÊ PRECISA "
+"FAZER ISSO DE NOVO, INFELIZMENTE.\n"
 "\n"
 "VISITE EMULATIONSTATION.ORG PARA MAIS INFORMAÇÕES."
 
@@ -197,9 +197,8 @@ msgid ""
 "VISIT EMULATIONSTATION.ORG FOR MORE INFORMATION."
 msgstr ""
 "NÃO ENCONTRAMOS NENHUM SISTEMA !\n"
-"VERIFIQUE SE OS CAMINHOS ESTÃO CORRIGIDOS NO ARQUIVO DE CONFIGURAÇÃO E "
-"SE O SEU DIRETÓRIO TEM PELO MENOS UM JOGO COM A EXTENSÃO "
-"CORRETA.\n"
+"VERIFIQUE SE OS CAMINHOS ESTÃO CORRIGIDOS NO ARQUIVO DE CONFIGURAÇÃO E SE O "
+"SEU DIRETÓRIO TEM PELO MENOS UM JOGO COM A EXTENSÃO CORRETA.\n"
 "\n"
 "VISITE EMULATIONSTATION.ORG PARA MAIS INFORMAÇÕES."
 
@@ -292,6 +291,14 @@ msgstr "GÊNERO:"
 
 msgid "PLAYERS:"
 msgstr "PLAYERS:"
+
+msgid ""
+"Configured scraper is no longer available.\n"
+"Please change the scraping source in the settings."
+msgstr ""
+
+msgid "FINISH"
+msgstr ""
 
 msgid "NO GAMES FOUND - SKIP"
 msgstr "NENHUM JOGO ENCONTRADO - PULAR"
@@ -463,6 +470,21 @@ msgstr "SCRAPE AGORA"
 msgid "SYSTEM VOLUME"
 msgstr "VOLUME DO SISTEMA"
 
+msgid "AUDIO CARD"
+msgstr "CARTÃO DE ÁUDIO"
+
+msgid "local"
+msgstr "LOCAL"
+
+msgid "hdmi"
+msgstr "HDMI"
+
+msgid "both"
+msgstr "BOTH"
+
+msgid "default"
+msgstr "PADRÃO"
+
 msgid "AUDIO DEVICE"
 msgstr "DISPOSITIVO DE ÁUDIO"
 
@@ -475,6 +497,12 @@ msgstr "Caixa de som"
 msgid "Master"
 msgstr "Master"
 
+msgid "Digital"
+msgstr ""
+
+msgid "Analogue"
+msgstr "Analógico"
+
 msgid "ENABLE NAVIGATION SOUNDS"
 msgstr "HABILITAR SONS DE NAVEGAÇÃO"
 
@@ -483,15 +511,6 @@ msgstr "HABILITAR ÁUDIO NO VÍDEO"
 
 msgid "OMX PLAYER AUDIO DEVICE"
 msgstr "OMX PLAYER DISPOSITIVO DE ÁUDIO"
-
-msgid "local"
-msgstr "LOCAL"
-
-msgid "hdmi"
-msgstr "HDMI"
-
-msgid "both"
-msgstr "BOTH"
 
 msgid "UI MODE"
 msgstr "MODO DE INTERFACE"
@@ -587,9 +606,6 @@ msgstr "ECONOMIA DE ENERGIA"
 msgid "disabled"
 msgstr "DESATIVADO"
 
-msgid "default"
-msgstr "PADRÃO"
-
 msgid "enhanced"
 msgstr "MELHORADO"
 
@@ -672,10 +688,9 @@ msgid "SAVE"
 msgstr "SALVAR"
 
 msgid ""
-"THIS WILL DELETE A FILE!\n"
+"THIS WILL DELETE THE ACTUAL GAME FILE(S)!\n"
 "ARE YOU SURE?"
-msgstr ""
-"ISSO DELETARÁ O ARQUIVO!\n"
+msgstr "ISSO DELETARÁ O ARQUIVO ATUAL!\n"
 "TEM CERTEZA?"
 
 msgid "DELETE"
@@ -703,7 +718,7 @@ msgid "SWAP IMAGE AFTER (SECS)"
 msgstr "MUDAR IMAGEM APÓS (S)"
 
 msgid "STRETCH IMAGES"
-msgstr "ESTICAR IMAGENS"
+msgstr "ESTENDER IMAGENS"
 
 msgid "BACKGROUND AUDIO"
 msgstr "ÁUDIO DE FUNDO"
@@ -757,7 +772,7 @@ msgid "USE COMPATIBLE LOW RESOLUTION FOR CAPTIONS"
 msgstr "USE BAIXA RESOLUÇÃO COMPATÍVEL PARA LEGENDA"
 
 msgid "STRETCH VIDEO ON SCREENSAVER"
-msgstr "ESTICAR VÍDEO NA PROTEÇÃO DE TELA"
+msgstr "ESTENDER VÍDEO NA PROTEÇÃO DE TELA"
 
 msgid ""
 "Using OMX Player and displaying Game Info may result in the video flickering "
@@ -946,19 +961,19 @@ msgid "SELECT"
 msgstr "SELECIONAR"
 
 msgctxt "button"
-msgid "A"
+msgid "BUTTON A / EAST"
 msgstr "A"
 
 msgctxt "button"
-msgid "B"
+msgid "BUTTON B / SOUTH"
 msgstr "B"
 
 msgctxt "button"
-msgid "X"
+msgid "BUTTON X / NORTH"
 msgstr "X"
 
 msgctxt "button"
-msgid "Y"
+msgid "BUTTON Y / WEST"
 msgstr "Y"
 
 msgctxt "button"
