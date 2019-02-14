@@ -17,7 +17,7 @@ msgid "ENTER GAME NAME"
 msgstr "NOME DO JOGO"
 
 msgid "SORTNAME"
-msgstr "NOME SORTIDO"
+msgstr "COMEÇAR COM LETRA"
 
 msgid "ENTER GAME SORT NAME"
 msgstr "DIGITAR NOME SORTIDO"
