@@ -947,11 +947,11 @@ msgstr "D-PAD BAIXO"
 
 msgctxt "button"
 msgid "D-PAD LEFT"
-msgstr "D-PAD ESQUERDA"
+msgstr "D-PAD ESQUERDO"
 
 msgctxt "button"
 msgid "D-PAD RIGHT"
-msgstr "D-PAD DIREITA"
+msgstr "D-PAD DIREITO"
 
 msgctxt "button"
 msgid "START"
@@ -995,11 +995,11 @@ msgstr "R2"
 
 msgctxt "button"
 msgid "LEFT THUMB"
-msgstr "THUMB ESQUERDA"
+msgstr "THUMB ESQUERDO"
 
 msgctxt "button"
 msgid "RIGHT THUMB"
-msgstr "THUMB DIREITA"
+msgstr "THUMB DIREITO"
 
 msgctxt "button"
 msgid "LEFT ANALOG UP"
@@ -1011,11 +1011,11 @@ msgstr "ANALÓGICO ESQUERDO, BAIXO"
 
 msgctxt "button"
 msgid "LEFT ANALOG LEFT"
-msgstr "ANALÓGICO ESQUERDO, ESQUERDA"
+msgstr "ANALÓGICO ESQUERDO, ESQUERDO"
 
 msgctxt "button"
 msgid "LEFT ANALOG RIGHT"
-msgstr "ANALÓGICO ESQUERDO, DIREITA"
+msgstr "ANALÓGICO ESQUERDO, DIREITO"
 
 msgctxt "button"
 msgid "RIGHT ANALOG UP"
@@ -1027,11 +1027,11 @@ msgstr "ANALÓGICO DIREITO, BAIXO"
 
 msgctxt "button"
 msgid "RIGHT ANALOG LEFT"
-msgstr "ANALÓGICO DIREITO, ESQUERDA"
+msgstr "ANALÓGICO DIREITO, ESQUERDO"
 
 msgctxt "button"
 msgid "RIGHT ANALOG RIGHT"
-msgstr "ANALÓGICO DIREITO, DIREITA"
+msgstr "ANALÓGICO DIREITO, DIREITO"
 
 msgctxt "button"
 msgid "HOTKEY ENABLE"
