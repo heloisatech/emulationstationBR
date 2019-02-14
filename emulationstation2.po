@@ -499,7 +499,7 @@ msgid "Master"
 msgstr "Master"
 
 msgid "Digital"
-msgstr ""
+msgstr "Digital"
 
 msgid "Analogue"
 msgstr "Analógico"
