@@ -1,4 +1,4 @@
-# emulationstationBR
+
 
 Tradução para Português (Brasil) do menu EmulationStation para RetroPie
 
