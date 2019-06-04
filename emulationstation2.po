@@ -53,10 +53,10 @@ msgid "ENTER PATH TO THUMBNAIL"
 msgstr "CAMINHO DA MINIATURA"
 
 msgid "RATING"
-msgstr "CLASSIFICAÇÃO"
+msgstr "AVALIAÇÃO"
 
 msgid "ENTER RATING"
-msgstr "DIGITAR CLASSIFICAÇÃO"
+msgstr "DIGITAR AVALIAÇÃO"
 
 msgid "RELEASE DATE"
 msgstr "DATA DE LANÇAMENTO"
@@ -68,16 +68,16 @@ msgid "unknown"
 msgstr "desconhecido"
 
 msgid "DEVELOPER"
-msgstr "DESENVOLVEDOR"
+msgstr "DESENVOLVEDORA"
 
 msgid "ENTER GAME DEVELOPER"
-msgstr "DESENVOLVEDOR DO JOGO"
+msgstr "DESENVOLVEDORA DO JOGO"
 
 msgid "PUBLISHER"
-msgstr "EDITOR"
+msgstr "DISTRIBUIDORA"
 
 msgid "ENTER GAME PUBLISHER"
-msgstr "EDITOR DO JOGO"
+msgstr "DISTRIBUIDORA DO JOGO"
 
 msgid "GENRE"
 msgstr "GÊNERO"
@@ -206,7 +206,7 @@ msgid "QUIT"
 msgstr "SAIR"
 
 msgid "PUBLISHER / DEVELOPER"
-msgstr "EDITOR / DESENVOLVEDOR"
+msgstr "DISTRIBUIDORA / DESENVOLVEDORA"
 
 msgid "{1} STARS"
 msgstr "{1} ESTRELAS"
@@ -218,10 +218,10 @@ msgid "FILENAME, DESCENDING"
 msgstr "NOME ↓"
 
 msgid "RATING, ASCENDING"
-msgstr "CLASSIFICAÇÃO ↑"
+msgstr "AVALIAÇÃO ↑"
 
 msgid "RATING, DESCENDING"
-msgstr "CLASSIFICAÇÃO ↓"
+msgstr "AVALIAÇÃO ↓"
 
 msgid "TIMES PLAYED, ASCENDING"
 msgstr "TEMPO JOGADO ↑"
@@ -251,16 +251,16 @@ msgid "GENRE, DESCENDING"
 msgstr "GÊNERO ↓"
 
 msgid "DEVELOPER, ASCENDING"
-msgstr "DESENVOLVEDOR ↑"
+msgstr "DESENVOLVEDORA ↑"
 
 msgid "DEVELOPER, DESCENDING"
-msgstr "DESENVOLVEDOR ↓"
+msgstr "DESENVOLVEDORA ↓"
 
 msgid "PUBLISHER, ASCENDING"
-msgstr "EDITOR ↑"
+msgstr "DISTRIBUIDORA ↑"
 
 msgid "PUBLISHER, DESCENDING"
-msgstr "EDITOR ↓"
+msgstr "DISTRIBUIDORA ↓"
 
 msgid "SYSTEM, ASCENDING"
 msgstr "SISTEMA ↑"
@@ -281,16 +281,16 @@ msgid "RELEASED:"
 msgstr "LANÇAMENTO:"
 
 msgid "DEVELOPER:"
-msgstr "DESENVOLVEDOR:"
+msgstr "DESENVOLVEDORA:"
 
 msgid "PUBLISHER:"
-msgstr "EDITOR:"
+msgstr "DISTRIBUIDORA:"
 
 msgid "GENRE:"
 msgstr "GÊNERO:"
 
 msgid "PLAYERS:"
-msgstr "PLAYERS:"
+msgstr "JOGADORES:"
 
 msgid ""
 "Configured scraper is no longer available.\n"
@@ -350,7 +350,7 @@ msgid "RANDOM"
 msgstr "ALEATÓRIO"
 
 msgid "LAUNCH SCREENSAVER"
-msgstr "PROTETOR DE TELA"
+msgstr "INICIAR PROTEÇÃO DE TELA"
 
 msgid "Full"
 msgstr "COMPLETO"
@@ -386,13 +386,13 @@ msgid "CLOSE"
 msgstr "FECHAR"
 
 msgid "SCREENSAVER AFTER"
-msgstr "TEMPO DO PROTETOR"
+msgstr "PROTEÇÃO DE TELA APÓS"
 
 msgid "SCREENSAVER CONTROLS"
-msgstr "CONTROLE DO PROTETOR"
+msgstr "CONTROLE DA PROTEÇÃO"
 
 msgid "SCREENSAVER BEHAVIOR"
-msgstr "TIPO DE PROTETOR"
+msgstr "COMPORTAMENTO DA PROTEÇÃO"
 
 msgid "dim"
 msgstr "ILUMINADO"
@@ -427,22 +427,22 @@ msgid "USE HARDWARE BACKLIGHT CONTROL"
 msgstr "CONTROLE DE LUZ DE FUNDO DO HARDWARE"
 
 msgid "VIDEO SCREENSAVER SETTINGS"
-msgstr "CONFIGURAR PROTETOR DE TELA VÍDEO"
+msgstr "CONFIGURAR VÍDEO NA PROTEÇÃO DE TELA"
 
 msgid "SLIDESHOW SCREENSAVER SETTINGS"
-msgstr "CONFIGURAR PROTETOR DE TELA APRESENTAÇÃO"
+msgstr "CONFIGURAR EXIBIÇÇÃO DE SLIDE NA PROTEÇÃO DE TELA"
 
 msgid "VIDEO SCREENSAVER"
-msgstr "PROTETOR DE TELA VÍDEO"
+msgstr "VÍDEO NA PROTEÇÃO DE TELA"
 
 msgid "SLIDESHOW SCREENSAVER"
-msgstr "PROTETOR DE TELA APRESENTAÇÃO"
+msgstr "EXIBIÇÃO DE SLIDE NA PROTEÇÃO DE TELA"
 
 msgid "MAIN MENU"
 msgstr "MENU PRINCIPAL"
 
-msgid "SCRAPER"
-msgstr "SCRAPER"
+msgid "OBTER DADOS"
+msgstr "OBTER DADOS"
 
 msgid "SOUND SETTINGS"
 msgstr "CONFIGURAR SOM"
@@ -457,16 +457,16 @@ msgid "OTHER SETTINGS"
 msgstr "OUTRAS CONFIGURAÇÕES"
 
 msgid "CONFIGURE INPUT"
-msgstr "CONFIGURAR ENTRADA"
+msgstr "CONFIGURAR CONTROLE"
 
 msgid "SCRAPE FROM"
-msgstr "SCRAPE DE"
+msgstr "OBTER DADOS DE"
 
 msgid "SCRAPE RATINGS"
-msgstr "SCRAPE DAS CLASSIFICAÇÕES"
+msgstr "OBTER AVALIAÇÃO"
 
 msgid "SCRAPE NOW"
-msgstr "FAZER SCRAPE AGORA"
+msgstr "OBTER DADOS AGORA"
 
 msgid "SYSTEM VOLUME"
 msgstr "VOLUME DO SISTEMA"
@@ -505,16 +505,16 @@ msgid "Analogue"
 msgstr "Analógico"
 
 msgid "ENABLE NAVIGATION SOUNDS"
-msgstr "HABILITAR SONS DE NAVEGAÇÃO"
+msgstr "ATIVAR SONS DE NAVEGAÇÃO"
 
 msgid "ENABLE VIDEO AUDIO"
-msgstr "HABILITAR ÁUDIO NO VÍDEO"
+msgstr "ATIVAR ÁUDIO NO VÍDEO"
 
 msgid "OMX PLAYER AUDIO DEVICE"
 msgstr "OMX PLAYER DISPOSITIVO DE ÁUDIO"
 
 msgid "UI MODE"
-msgstr "MODO DE INTERFACE"
+msgstr "CONFIGURAR INTERFACE"
 
 msgid ""
 "You are changing the UI to a restricted mode:\n"
@@ -542,7 +542,7 @@ msgid "NO"
 msgstr "NÃO"
 
 msgid "SCREENSAVER SETTINGS"
-msgstr "CONFIGURAR PROTETOR DE TELA"
+msgstr "CONFIGURAR PROTEÇÃO DE TELA"
 
 msgid "QUICK SYSTEM SELECT"
 msgstr "SELEÇÃO RÁPIDA DO SISTEMA"
@@ -566,7 +566,7 @@ msgid "THEME SET"
 msgstr "ESCOLHER TEMA"
 
 msgid "GAMELIST VIEW STYLE"
-msgstr "VISUALIZAR ESTILO LISTA"
+msgstr "EXIBIÇÃO DA LISTA DO JOGO"
 
 msgid "automatic"
 msgstr "AUTOMÁTICO"
@@ -599,10 +599,10 @@ msgid "Mb"
 msgstr "Mb"
 
 msgid "VRAM LIMIT"
-msgstr "LIMITE VRAM"
+msgstr "LIMITE DE VRAM"
 
 msgid "POWER SAVER MODES"
-msgstr "ECONOMIA DE ENERGIA"
+msgstr "MODOS DE ECONOMIA DE ENERGIA"
 
 msgid "disabled"
 msgstr "DESATIVADO"
@@ -611,10 +611,10 @@ msgid "enhanced"
 msgstr "MELHORADO"
 
 msgid "SAVE METADATA ON EXIT"
-msgstr "SALVAR DADOS AO SAIR"
+msgstr "SALVAR INFORMAÇÕES AO SAIR"
 
 msgid "PARSE GAMESLISTS ONLY"
-msgstr "SOMENTE ANALISAR LISTA"
+msgstr "ANALISAR APENAS LISTA DE JGOS"
 
 msgid "SHOW HIDDEN FILES"
 msgstr "MOSTRAR AQUIVOS OCULTOS"
@@ -623,10 +623,10 @@ msgid "USE OMX PLAYER (HW ACCELERATED)"
 msgstr "USAR OMX PLAYER (ACELERAR HARDWARE)"
 
 msgid "SHOW FRAMERATE"
-msgstr "MOSTRAR FRAMERATE"
+msgstr "EXIBIR FPS"
 
 msgid "ARE YOU SURE YOU WANT TO CONFIGURE INPUT?"
-msgstr "VOCÊ TEM CERTEZA QUE QUER CONFIGURAR ENTRADA?"
+msgstr "TEM CERTEZA QUE QUER CONFIGURAR O CONTROLE?"
 
 msgid "REALLY RESTART?"
 msgstr "REINICIAR?"
@@ -659,13 +659,13 @@ msgid "CREATE NEW CUSTOM COLLECTION"
 msgstr "CRIAR NOVA COLEÇÃO PERSONALIZADA"
 
 msgid "New Collection Name"
-msgstr "Nome da Coleção"
+msgstr "Novo Nome da Coleção"
 
 msgid "GROUP UNTHEMED CUSTOM COLLECTIONS"
-msgstr "GRUPO DE COLEÇÕES PERSONALIZADAS SEM TEMA"
+msgstr "AGRUPAR COLEÇÕES PERSONALIZADAS SEM TEMA"
 
 msgid "SORT CUSTOM COLLECTIONS AND SYSTEMS"
-msgstr "ORDENAR COLEÇÕES PERSONALIZADAS E SISTEMAS"
+msgstr "CLASSIFICAR COLEÇÕES PERSONALIZADAS E SISTEMAS"
 
 msgid "FINISH EDITING '{1}' COLLECTION"
 msgstr "FINALIZAR EDIÇÃO '{1}' COLEÇÃO"
@@ -674,16 +674,16 @@ msgid "SELECT COLLECTIONS"
 msgstr "SELECIONAR COLEÇÕES"
 
 msgid "AUTOMATIC GAME COLLECTIONS"
-msgstr "COLEÇÃO AUTOMÁTICA DE JOGOS"
+msgstr "COLEÇÕES DE JOGOS AUTOMÁTICAS"
 
 msgid "CUSTOM GAME COLLECTIONS"
-msgstr "COLEÇÃO PERSONALIZADA DE JOGOS"
+msgstr "COLEÇÕES DE JOGOS PERSONALIZADOS"
 
 msgid "EDIT METADATA"
 msgstr "EDITAR DADOS"
 
 msgid "SCRAPE"
-msgstr "SCRAPE"
+msgstr "INFORMAÇÃO"
 
 msgid "SAVE"
 msgstr "SALVAR"
@@ -752,7 +752,7 @@ msgid "SWAP VIDEO AFTER (SECS)"
 msgstr "MUDAR VÍDEO APÓS (S)"
 
 msgid "USE OMX PLAYER FOR SCREENSAVER"
-msgstr "USAR OMX PLAYER PARA PROTETOR TELA"
+msgstr "USAR O OMX PLAYER NA PROTEÇÃO DE TELA"
 
 msgid "SHOW GAME INFO"
 msgstr "MOSTRAR INFORMAÇÕES DO JOGO"
@@ -767,13 +767,13 @@ msgid "never"
 msgstr "NUNCA"
 
 msgid "SHOW GAME INFO ON SCREENSAVER"
-msgstr "MOSTRAR INFORMAÇÕES DO JOGO"
+msgstr "INFORMAÇÕES DO JOGO NA PROTEÇÃO DE TELA"
 
 msgid "USE COMPATIBLE LOW RESOLUTION FOR CAPTIONS"
 msgstr "USE BAIXA RESOLUÇÃO COMPATÍVEL PARA LEGENDA"
 
 msgid "STRETCH VIDEO ON SCREENSAVER"
-msgstr "ESTENDER VÍDEO NA PROTEÇÃO DE TELA"
+msgstr "AMPLIAR VÍDEO NA PROTEÇÃO DE TELA"
 
 msgid ""
 "Using OMX Player and displaying Game Info may result in the video flickering "
@@ -796,7 +796,7 @@ msgid "GOT IT!"
 msgstr "OK!"
 
 msgid "SCRAPE THESE GAMES"
-msgstr "SCRAPE ESSES JOGOS"
+msgstr "OBTER INFORMAÇÃO DE JOGOS"
 
 msgid "All Games"
 msgstr "Todos os Jogos"
@@ -808,13 +808,13 @@ msgid "FILTER"
 msgstr "FILTRO"
 
 msgid "SCRAPE THESE SYSTEMS"
-msgstr "SCRAPE ESTES SISTEMAS"
+msgstr "OBTER DADOS DESSES SISTEMAS"
 
 msgid "SYSTEMS"
 msgstr "SISTEMAS"
 
 msgid "USER DECIDES ON CONFLICTS"
-msgstr "O USUÁRIO DECIDE SOBRE CONFLITOS"
+msgstr "O USUÁRIO DECIDE EM CONFLITOS"
 
 msgid "START"
 msgstr "INICIAR"
@@ -832,7 +832,7 @@ msgid "NO GAMES FIT THAT CRITERIA."
 msgstr "NENHUM JOGO RESPONDE AOS CRITÉRIOS."
 
 msgid "INPUT"
-msgstr "ENTRADA"
+msgstr "CONTROLE"
 
 msgid "SCRAPING IN PROGRESS"
 msgstr "SCRAPING EM PROGRESSO"
@@ -850,12 +850,12 @@ msgid "GAME {1} OF {2}"
 msgstr "JOGO {1} DE {2}"
 
 msgid "NO GAMES WERE SCRAPED."
-msgstr "NENHUM JOGO SCRAPED."
+msgstr "NENHUMA INFORMAÇÃO DE JOGO."
 
 msgid "{1} GAME SUCCESSFULLY SCRAPED!"
 msgid_plural "{1} GAMES SUCCESSFULLY SCRAPED!"
-msgstr[0] "{1} JOGO SCRAPED COM SUCESSO !"
-msgstr[1] "{1} JOGOS SCRAPED COM SUCESSO!"
+msgstr[0] "{1} INFORMAÇÃO DE JOGO ADICIONADO !"
+msgstr[1] "{1} INFORMAÇÕES DE JOGOS ADICIONADOS !"
 
 msgid "{1} GAME SKIPPED."
 msgid_plural "{1} GAMES SKIPPED."
