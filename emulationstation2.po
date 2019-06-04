@@ -224,10 +224,10 @@ msgid "RATING, DESCENDING"
 msgstr "AVALIAÇÃO ↓"
 
 msgid "TIMES PLAYED, ASCENDING"
-msgstr "TEMPO JOGADO ↑"
+msgstr "TEMPO DE JOGO ↑"
 
 msgid "TIMES PLAYED, DESCENDING"
-msgstr "TEMPO JOGADO ↓"
+msgstr "TEMPO DE JOGO ↓"
 
 msgid "LAST PLAYED, ASCENDING"
 msgstr "ÚLTIMO JOGADO ↑"
