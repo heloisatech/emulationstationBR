@@ -1,8 +1,8 @@
 
 
-Tradução para Português (Brasil) do menu EmulationStation para RetroPie
+Tradução para Português (Brasil) do menu EmulationStation v2.8.0 para RetroPie
 
-EmulationStation RetroPie menu Portuguese (Brazil) translation
+EmulationStation v2.8.0 RetroPie menu Portuguese (Brazil) translation
 
 
 
